@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightgray;
+}
+h1 {
+    color:red;
+    margin-top: 10px;
+    font-size:28px;
+}
+i {
+    margin-left: 10px;
+}
+div {
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 20px;
+}
+h1:hover{
+    font-size:32px;
+    cursor:pointer;
+    color: yellow;
+    background-color: aqua;
+}
+/* hover vazifasi ustiga cursor borganda bajariladigan 
+stylellar uchun
+ ishlatiladi */
